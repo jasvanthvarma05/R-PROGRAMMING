@@ -1,0 +1,10 @@
+# Take user input for name and age
+name <- readline(prompt = "Enter your name: ")
+age <- as.numeric(readline(prompt = "Enter your age: "))
+
+# Display user input
+cat("Name:", name, "\n")
+cat("Age:", age, "\n")
+
+# Print R version
+cat("\nR version:", R.version.string, "\n")

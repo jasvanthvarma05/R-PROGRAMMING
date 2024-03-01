@@ -1,0 +1,9 @@
+> name<-c("akash","sri","baskar","kannan")
+> age<-c(23,45,67,89)
+> ls<-c(name)
+> print(ls)
+[1] "akash"  "sri"    "baskar" "kannan"
+> ls<-c(age)
+> print(ls)
+[1] 23 45 67 89
+> 

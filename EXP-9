@@ -1,0 +1,10 @@
+> first_10_lower<-letters[1:10]
+> last_10_upper<-LETTERS[17:26]
+> letters_22_to_24_uppercase<-LETTERS[22:24]
+> print(first_10_lower)
+ [1] "a" "b" "c" "d" "e" "f" "g" "h" "i" "j"
+> print(last_10_upper)
+ [1] "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z"
+> letters_22_to_24_uppercase
+[1] "V" "W" "X"
+> 
